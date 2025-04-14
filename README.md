@@ -1,5 +1,5 @@
 # RTK_RAG: Leveraging Retrieval Augmented Generation with Multi-Window Convolutional Neural Networks for Superior ATP Binding Site Prediction in Receptor Tyrosine Kinases
-
+Sin-Siang Wei, Wei-En Jhang, Yu-Chen Liu, Cheng-Che Chuang,  Yu-Yen Ou
 |[ 🎇&nbsp;Abstract](#abstract) |[📃&nbsp;Dataset](#Dataset) |[ 📚&nbsp;License](#License)|
 |-------------------------------|-----------------------------|---------------------------------|
 
